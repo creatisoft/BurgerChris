@@ -11,3 +11,4 @@ Website >> https://www.creatisoft.com
 Twitter / X >> @creatisoft
 itch.io page >> https://creatisoft.itch.io/creatisoft-burger-chris
 ====================================
+NOTE: unzip the "assets folder" in the same directory. I zipped it up to save space / way too many files. 
